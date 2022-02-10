@@ -1,0 +1,29 @@
+PERSONAL INFO
+firstname   SAVE & NEXT
+lastname
+profession
+city
+state
+phone number
+email
+
+WORK HISTORY
+company
+job
+job description
+city
+state
+from date
+to date
+
+SKILLS
+skill
+level
+
+EDUCATION 
+school
+state
+degree
+field of study
+start date
+graduated date
